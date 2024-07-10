@@ -1,1 +1,2 @@
-apikey = <write the address>
+apikey = <OPENAI_API_KEY>
+

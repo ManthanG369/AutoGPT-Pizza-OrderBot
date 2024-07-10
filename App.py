@@ -72,3 +72,8 @@ for i, message in enumerate(messages):
         st.text_area("Bot:", value=message['content'], height=80)
     if i < len(messages) - 1:
         st.write("---")
+
+# import streamlit as st
+
+# st.title('My Streamlit App')
+# st.write('Hello, world!')
